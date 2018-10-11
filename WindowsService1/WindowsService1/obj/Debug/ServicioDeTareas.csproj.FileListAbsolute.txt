@@ -1,0 +1,5 @@
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\obj\Debug\ServicioDeTareas.csproj.CoreCompileInputs.cache
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\bin\Debug\ServicioDeTareas.exe
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\bin\Debug\ServicioDeTareas.pdb
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\obj\Debug\ServicioDeTareas.exe
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\obj\Debug\ServicioDeTareas.pdb

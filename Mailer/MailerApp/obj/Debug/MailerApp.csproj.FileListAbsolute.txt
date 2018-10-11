@@ -1,0 +1,7 @@
+C:\Users\lcaceres\source\repos\Mailer\MailerApp\obj\Debug\MailerApp.csproj.CoreCompileInputs.cache
+C:\Users\lcaceres\source\repos\Mailer\MailerApp\bin\Debug\MailerApp.exe.config
+C:\Users\lcaceres\source\repos\Mailer\MailerApp\bin\Debug\MailerApp.exe
+C:\Users\lcaceres\source\repos\Mailer\MailerApp\bin\Debug\MailerApp.pdb
+C:\Users\lcaceres\source\repos\Mailer\MailerApp\obj\Debug\MailerApp.exe
+C:\Users\lcaceres\source\repos\Mailer\MailerApp\obj\Debug\MailerApp.pdb
+C:\Users\lcaceres\source\repos\Mailer\MailerApp\obj\Debug\MailerApp.csprojAssemblyReference.cache

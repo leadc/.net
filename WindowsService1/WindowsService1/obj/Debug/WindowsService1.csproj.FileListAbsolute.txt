@@ -1,0 +1,6 @@
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+c:\users\lcaceres\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

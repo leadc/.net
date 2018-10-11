@@ -1,0 +1,5 @@
+C:\Users\lcaceres\source\repos\MailApp\Prueba_Mailer\bin\x86\Debug\Prueba_Mailer.exe
+C:\Users\lcaceres\source\repos\MailApp\Prueba_Mailer\bin\x86\Debug\Prueba_Mailer.pdb
+C:\Users\lcaceres\source\repos\MailApp\Prueba_Mailer\obj\x86\Debug\MailerApp.csproj.CoreCompileInputs.cache
+C:\Users\lcaceres\source\repos\MailApp\Prueba_Mailer\obj\x86\Debug\Prueba_Mailer.exe
+C:\Users\lcaceres\source\repos\MailApp\Prueba_Mailer\obj\x86\Debug\Prueba_Mailer.pdb

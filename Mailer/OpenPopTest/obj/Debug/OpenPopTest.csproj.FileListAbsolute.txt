@@ -1,0 +1,11 @@
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\bin\Debug\OpenPop.NET Test Application.exe
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\bin\Debug\OpenPop.NET Test Application.pdb
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\bin\Debug\OpenPop.dll
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\bin\Debug\OpenPop.pdb
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\bin\Debug\OpenPop.xml
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\obj\Debug\OpenPopTest.csprojResolveAssemblyReference.cache
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\obj\Debug\OpenPop.TestApplication.TestForm.resources
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\obj\Debug\OpenPopTest.csproj.GenerateResource.Cache
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\obj\Debug\OpenPopTest.csproj.CoreCompileInputs.cache
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\obj\Debug\OpenPop.NET Test Application.exe
+C:\Users\lcaceres\source\repos\Mailer\OpenPopTest\obj\Debug\OpenPop.NET Test Application.pdb

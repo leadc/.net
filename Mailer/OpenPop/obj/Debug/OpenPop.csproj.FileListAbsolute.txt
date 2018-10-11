@@ -1,0 +1,7 @@
+C:\Users\lcaceres\source\repos\Mailer\OpenPop\bin\Debug\OpenPop.xml
+C:\Users\lcaceres\source\repos\Mailer\OpenPop\bin\Debug\OpenPop.dll
+C:\Users\lcaceres\source\repos\Mailer\OpenPop\bin\Debug\OpenPop.pdb
+C:\Users\lcaceres\source\repos\Mailer\OpenPop\obj\Debug\OpenPop.csprojResolveAssemblyReference.cache
+C:\Users\lcaceres\source\repos\Mailer\OpenPop\obj\Debug\OpenPop.csproj.CoreCompileInputs.cache
+C:\Users\lcaceres\source\repos\Mailer\OpenPop\obj\Debug\OpenPop.dll
+C:\Users\lcaceres\source\repos\Mailer\OpenPop\obj\Debug\OpenPop.pdb

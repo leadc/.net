@@ -1,0 +1,26 @@
+Envío erroneo:
+Envío correcto:
+lcaceres@applusglobal.com
+Reco-663$
+leandro.caceres@applus.com
+Asunto
+Mail
+Envío correcto:
+turnos.auto.uy@applusitv.uy
+Applus01$
+leandro.caceres@applus.com
+Asunto
+Mail
+Envío erroneo:
+Envío erroneo:
+Envío erroneo:
+Envío erroneo:
+Envío erroneo:
+6/9/2018 14:29:43
+turnos.auto.uy@applusitv.uy
+Applus01$
+leandro.caceres@applus.com
+Asunto
+Mail
+El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [RO1PR80CA0137.lamprd80.prod.outlook.com]
+---------------
